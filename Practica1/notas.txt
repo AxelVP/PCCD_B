@@ -1,0 +1,3 @@
+Las interrupciones NO son herrramientas de sincronización.
+sa_restart restaura ciertas llamadas al sistema que den error.
+Nunca debemos simplificar el num de programas a escribir aunque varios programas tengan la misma funcionalidad.
